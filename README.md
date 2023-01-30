@@ -3,10 +3,10 @@
 
 
 
-Here are some ideas to get you started:
+Kendim Hakkımda birkaç bilgi yazmak isterim 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about Data Science and Python 🐍
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning about Data Science 👨🏻‍💻 and Python 🐍
 - 👯 I’m looking to collaborate on ...
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
