@@ -77,7 +77,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
 <br>
--->
+
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
@@ -96,5 +96,5 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+-->
 [Emre](https://github.com/emredeveloper)
