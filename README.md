@@ -12,11 +12,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Machine Learning / Data Analys and Backend / .Net
 
 - 📫 How to reach me **Linkedln : Cihat Emre Karataş**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Music 🎵 and Code 👨‍💻 are the reasons to live.
 
 <br>
 
