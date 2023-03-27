@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Machine Learning / Data Analys and Backend / .Net
 
-- 📫 How to reach me **Linkedln : Cihat Emre Karataş**
+- 📫 How to reach me **You Can't haha**
 
 - ⚡ Fun fact :- Music 🎵 and Code 👨‍💻 are the reasons to live.
 
