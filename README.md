@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center"> Backend and Machine Learning🌟.</h3>
+<h3 align="center"> Backend and Data Science🌟.</h3>
 
 <br>
 
