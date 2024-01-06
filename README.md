@@ -28,4 +28,5 @@
   </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ArdaKaymaz/ArdaKaymaz/output/github-contribution-grid-snake.svg)
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArdaKaymaz/ArdaKaymaz/output/github-contribution-grid-snake.svg">
+</picture>
