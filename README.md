@@ -8,7 +8,6 @@
 - 💪🏻 **Data Scientist** and **Data Analyst**
 - 🔭 Currently working on **Data Science**
 - ⚡ Python: **NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib, SciPy**
-- 📫 Reach me at: **emredeveloperr@gmail.com**
 
 # 💻 Tech Stack:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
