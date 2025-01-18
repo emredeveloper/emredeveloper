@@ -1,32 +1,21 @@
-# Hi there! 👋, I'm Emre
-<h3 align="center">Passionate Data Scientist from Turkey</h3>
+# C. Emre Karataş
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ardakaymaz&label=Profile%20views&color=0e75b6&style=plastic" alt="emre" />
-</p>
+I'm interested in AI 
 
-- 💪🏻 **Data Scientist** and **Data Analyst**
-- 🔭 Currently working on **Data Science**
-- ⚡ Python: **NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib, SciPy**
+## Contact 
 
-## 💻 Tech Stack:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 
-## Connect with Me
-<p align="right">
-  <a href="https://www.linkedin.com/in/cihatemrekaratas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre" height="20" width="20" />
-  </a>
-  <a href="https://www.kaggle.com/emre21" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emre" height="20" width="20" />
-  </a>
-</p>
 
-<p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArdaKaymaz/ArdaKaymaz/output/github-contribution-grid-snake.svg">
-</p>
+<a href="https://www.linkedin.com/in/cihatemrekaratas/"><img width="100" height="100" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://www.kaggle.com/emre21"><img width="100" height="100" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg"></a>
+<a href="https://huggingface.co/emredeveloper"><img width="100" height="100" src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde"></a>
+
+## Technologies That I'm Using
+| Python | NumPy | Pandas | TensorFlow | Sklearn | Streamlit | Transformers
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | ![NumPy](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg) | ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) | ![TensorFlow](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg) | ![Sklearn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | ![Streamlit](https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg) | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="100" height="100"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="100" height="100"/> |
+
+## Platforms
+| Conda | Jupyter | VS Code | Kaggle | Cursor |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Conda" width="100" height="100"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="100" height="100"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="100" height="100"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="VS Code" alt="Kaggle" width="100" height="100"/>| <img src="https://www.cursor.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-dark.c2eae9ea.png&w=3840&q=100" title="Cursor" alt="Cursor" width="100" height="100"/>
