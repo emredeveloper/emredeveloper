@@ -4,7 +4,6 @@ I'm interested in AI
 
 ## Contact 
 
-- Email: emre.karatas@example.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/cihatemrekaratas/)
 - Kaggle: [Kaggle Profile](https://www.kaggle.com/emre21)
 - Hugging Face: [Hugging Face Profile](https://huggingface.co/emredeveloper)
