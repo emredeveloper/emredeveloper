@@ -1,21 +1,78 @@
-# C. Emre Karataş
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=C.%20Emre%20Karataş&fontSize=50&fontAlignY=35&animation=fadeIn" />
+</div>
 
-I'm interested in AI 
+<h3 align="center">🤖 AI Enthusiast | Machine Learning Developer</h3>
 
-## Contact 
+<p align="center">
+  <a href="https://www.linkedin.com/in/cihatemrekaratas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kaggle.com/emre21"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://huggingface.co/emredeveloper"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-yellow?style=for-the-badge" alt="Hugging Face"/></a>
+</p>
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/cihatemrekaratas/)
-- Kaggle: [Kaggle Profile](https://www.kaggle.com/emre21)
-- Hugging Face: [Hugging Face Profile](https://huggingface.co/emredeveloper)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=emredeveloper&style=flat-square&color=blue" alt=""/>
+</div>
 
-## Technologies That I'm Using
+## 🚀 About Me
 
-| Python | NumPy | Pandas | TensorFlow | Sklearn | Streamlit | Transformers |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | ![NumPy](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg) | ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) | ![TensorFlow](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg) | ![Sklearn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | ![Streamlit](https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg) | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100" height="100"/> |
+I'm passionate about AI and machine learning technologies. I explore innovative solutions and stay current with the latest developments in the field. My expertise includes data analysis, model development, and implementing AI solutions.
 
-## Platforms
+## 🛠️ Tech Stack
 
-| Conda | Jupyter | VS Code | Kaggle | Cursor |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="100" height="100"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="100" height="100"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="100" height="100"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" width="100" height="100"/> | <img src="https://www.cursor.so/static/images/logo-dark.png" width="100" height="100"/> |
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=white" />
+</div>
+
+## 🔧 Development Platforms
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-4285F4?style=for-the-badge&logo=cursor&logoColor=white" />
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emredeveloper&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emredeveloper&theme=tokyonight" alt="GitHub Streak" height="170"/>
+</div>
+
+## 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emredeveloper&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+## 🌱 Current Focus
+
+I'm currently exploring:
+- Large Language Models (LLMs)
+- Computer Vision applications
+- Generative AI
+- MLOps practices
+
+## 🏆 Recent Projects
+
+<div align="center">
+  <a href="https://github.com/emredeveloper/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emredeveloper&repo=project-1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/emredeveloper/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emredeveloper&repo=project-2&theme=tokyonight" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</div>
