@@ -14,8 +14,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=emredeveloper&style=flat-square&color=blueviolet" alt=""/>
-  <img src="https://img.shields.io/badge/Last%20Updated-2025--03--30-brightgreen?style=flat-square" alt="Last Updated"/>
-  <img src="https://img.shields.io/badge/User-emredeveloper-orange?style=flat-square" alt="User"/>
 </div>
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -102,6 +100,20 @@ I believe in the power of AI to transform industries and improve lives through t
   </a>
 </div>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=emredeveloper&theme=radical&no-frame=true&column=7" />
+  </a>
+</div>
+
+<h2 align="center">📅 GitHub Contribution Calendar</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emredeveloper&theme=tokyo-night&hide_border=true" />
+</div>
+
 <h2 align="center">🌱 Current Learning Journey</h2>
 
 <div align="center">
@@ -135,71 +147,6 @@ I believe in the power of AI to transform industries and improve lives through t
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<h2 align="center">📅 Weekly Coding Schedule</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Day</th>
-      <th>Focus Area</th>
-      <th>Time Commitment</th>
-    </tr>
-    <tr>
-      <td>Monday</td>
-      <td>Deep Learning Research</td>
-      <td>4 hours</td>
-    </tr>
-    <tr>
-      <td>Tuesday</td>
-      <td>NLP Projects</td>
-      <td>3 hours</td>
-    </tr>
-    <tr>
-      <td>Wednesday</td>
-      <td>Computer Vision Practice</td>
-      <td>3 hours</td>
-    </tr>
-    <tr>
-      <td>Thursday</td>
-      <td>Open Source Contributions</td>
-      <td>2 hours</td>
-    </tr>
-    <tr>
-      <td>Friday</td>
-      <td>Project Development</td>
-      <td>4 hours</td>
-    </tr>
-    <tr>
-      <td>Weekend</td>
-      <td>Learning New Technologies</td>
-      <td>6 hours</td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">🎯 Future Goals</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Goal-Contribute_to_Major_AI_Framework-blueviolet?style=for-the-badge" alt="Contribute to Major AI Framework"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Goal-Publish_Research_Paper-blue?style=for-the-badge" alt="Publish Research Paper"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Goal-Build_Production_AI_System-green?style=for-the-badge" alt="Build Production AI System"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Goal-Mentor_AI_Beginners-orange?style=for-the-badge" alt="Mentor AI Beginners"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <h2 align="center">🌐 Let's Connect!</h2>
