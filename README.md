@@ -7,8 +7,6 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-2025--03--30-success?style=flat-square&logo=github" alt="Last Updated"/>
-  <img src="https://img.shields.io/badge/User-emredeveloper-orange?style=flat-square&logo=github" alt="GitHub User"/>
   <img src="https://komarev.com/ghpvc/?username=emredeveloper&style=flat-square&color=blueviolet&label=Profile%20Views" alt="Profile Views"/>
 </p>
 
@@ -16,7 +14,6 @@
   <a href="https://www.linkedin.com/in/cihatemrekaratas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://kaggle.com/emre21"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://huggingface.co/emredeveloper"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-yellow?style=for-the-badge" alt="Hugging Face"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <!-- Animated divider -->
@@ -47,7 +44,6 @@
         <div align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
           <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-          <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
           <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
         </div>
       </td>
@@ -76,8 +72,8 @@
         <div align="center">
           <img src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
           <img src="https://img.shields.io/badge/BERT-blue?style=for-the-badge&logo=huggingface&logoColor=white" alt="BERT" />
-          <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=white" alt="YOLO" />
-          <img src="https://img.shields.io/badge/GANs-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white" alt="GANs" />
+          <img src="https://img.shields.io/badge/Diffusion-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white" alt="Diffusion" />
+          <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
         </div>
       </td>
       <td valign="top" width="33%">
@@ -116,37 +112,37 @@
     <tr>
       <td><b>🤖 Machine Learning</b></td>
       <td>
-        <img src="https://progress-bar.dev/95/?width=200&title=Expert" />
+        <img src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/bar/95.webp" alt="Machine Learning 95%" />
       </td>
     </tr>
     <tr>
       <td><b>🧠 Deep Learning</b></td>
       <td>
-        <img src="https://progress-bar.dev/90/?width=200&title=Advanced" />
+        <img src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/bar/90.webp" alt="Deep Learning 90%" />
       </td>
     </tr>
     <tr>
       <td><b>🔤 NLP</b></td>
       <td>
-        <img src="https://progress-bar.dev/85/?width=200&title=Proficient" />
+        <img src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/bar/85.webp" alt="NLP 85%" />
       </td>
     </tr>
     <tr>
       <td><b>👁️ Computer Vision</b></td>
       <td>
-        <img src="https://progress-bar.dev/88/?width=200&title=Advanced" />
+        <img src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/bar/88.webp" alt="Computer Vision 88%" />
       </td>
     </tr>
     <tr>
       <td><b>📊 Data Analysis</b></td>
       <td>
-        <img src="https://progress-bar.dev/92/?width=200&title=Expert" />
+        <img src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/bar/92.webp" alt="Data Analysis 92%" />
       </td>
     </tr>
     <tr>
       <td><b>🔄 MLOps</b></td>
       <td>
-        <img src="https://progress-bar.dev/75/?width=200&title=Intermediate" />
+        <img src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/bar/75.webp" alt="MLOps 75%" />
       </td>
     </tr>
   </table>
@@ -190,25 +186,10 @@
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30" alt="Current Focus"> Current Focus
+## <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4a1a-bcf9-234cc7841efe.png" width="30" alt="Quote"> Inspirational Quote
 
 <div align="center">
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=experience&company=Large%20Language%20Models&role=Building%20custom%20LLMs%20for%20specialized%20tasks&location=Personal%20Projects&duration=2023%20-%20Present&fill=linear-gradient%28to%20right%2C%20%23E2E1F0%2C%20%236874E8%29" width="45%" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=experience&company=Generative%20AI&role=Creating%20image%20generation%20models%20with%20controlable%20parameters&location=Research&duration=2023%20-%20Present&fill=linear-gradient%28to%20right%2C%20%23E2E1F0%2C%20%236874E8%29" width="45%" /></a>
-</div>
-
-<div align="center">
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=experience&company=MLOps&role=Building%20automated%20ML%20pipelines%20and%20deployment%20strategies&location=Production%20Systems&duration=2024%20-%20Present&fill=linear-gradient%28to%20right%2C%20%23E2E1F0%2C%20%236874E8%29" width="45%" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=experience&company=Multi-modal%20Learning&role=Combining%20vision%20and%20language%20models%20for%20enhanced%20understanding&location=Research%20Projects&duration=2024%20-%20Present&fill=linear-gradient%28to%20right%2C%20%23E2E1F0%2C%20%236874E8%29" width="45%" /></a>
-</div>
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4a1a-bcf9-234cc7841efe.png" width="30" alt="Quote"> Daily AI Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="80%" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="AI Joke" width="80%" />
 </div>
 
 <div align="center">
