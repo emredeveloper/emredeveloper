@@ -65,12 +65,28 @@ I'm currently exploring:
 ## 🏆 Recent Projects
 
 <div align="center">
-  <a href="https://github.com/emredeveloper/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emredeveloper&repo=project-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/emredeveloper/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emredeveloper&repo=project-2&theme=tokyonight" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="https://via.placeholder.com/150?text=AI+Project" width="200" alt="Project 1"/>
+          <br />
+          <sub><b>AI Text Summarizer</b></sub>
+        </a>
+        <br />
+        <sub>Text classification with transformers</sub>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://via.placeholder.com/150?text=ML+Model" width="200" alt="Project 2"/>
+          <br />
+          <sub><b>ML Prediction Model</b></sub>
+        </a>
+        <br />
+        <sub>Predictive analytics using TensorFlow</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
