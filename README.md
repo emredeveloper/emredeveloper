@@ -20,8 +20,6 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-
 <p align="left">
 I'm passionate about AI and machine learning technologies, constantly exploring innovative solutions and staying at the forefront of technological advancements. My journey in AI has led me to develop expertise in:
 
@@ -51,7 +49,7 @@ I believe in the power of AI to transform industries and improve lives through t
 
 <h2 align="center">⚡ Skills & Expertise</h2>
 
-<table align="center" border="none">
+<table align="center">
   <tr>
     <td width="50%">
       <h3 align="center">Machine Learning</h3>
@@ -88,40 +86,46 @@ I believe in the power of AI to transform industries and improve lives through t
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=emredeveloper&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emredeveloper&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=emredeveloper&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="170" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emredeveloper&theme=radical&hide_border=true" />
+  </a>
 </div>
 
 <h2 align="center">📈 Language Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emredeveloper&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emredeveloper&layout=compact&theme=radical&hide_border=true" />
+  </a>
 </div>
 
 <h2 align="center">🌱 Current Learning Journey</h2>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td align="center" width="140">
-        <img src="https://media1.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="100px" height="100px" alt="LLMs"/>
+        <b>Large Language Models</b>
         <br />
-        <strong>Large Language Models</strong>
+        <img src="https://img.shields.io/badge/Progress-90%25-brightgreen?style=flat-square" width="90%" />
       </td>
       <td align="center" width="140">
-        <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="100px" height="100px" alt="MLOps"/>
+        <b>MLOps</b>
         <br />
-        <strong>MLOps</strong>
+        <img src="https://img.shields.io/badge/Progress-75%25-yellow?style=flat-square" width="90%" />
       </td>
       <td align="center" width="140">
-        <img src="https://media.giphy.com/media/5tkZxbkZRc8Q0/giphy.gif" width="100px" height="100px" alt="GANs"/>
+        <b>Generative AI</b>
         <br />
-        <strong>Generative AI</strong>
+        <img src="https://img.shields.io/badge/Progress-80%25-green?style=flat-square" width="90%" />
       </td>
       <td align="center" width="140">
-        <img src="https://media.giphy.com/media/l3fQsvbfwo3RUHf8Y/giphy.gif" width="100px" height="100px" alt="RL"/>
+        <b>Reinforcement Learning</b>
         <br />
-        <strong>Reinforcement Learning</strong>
+        <img src="https://img.shields.io/badge/Progress-65%25-orange?style=flat-square" width="90%" />
       </td>
     </tr>
   </table>
@@ -130,9 +134,72 @@ I believe in the power of AI to transform industries and improve lives through t
 <h2 align="center">💡 Inspirational Quote</h2>
 
 <div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<h2 align="center">📅 Weekly Coding Schedule</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Day</th>
+      <th>Focus Area</th>
+      <th>Time Commitment</th>
+    </tr>
+    <tr>
+      <td>Monday</td>
+      <td>Deep Learning Research</td>
+      <td>4 hours</td>
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td>NLP Projects</td>
+      <td>3 hours</td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>Computer Vision Practice</td>
+      <td>3 hours</td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>Open Source Contributions</td>
+      <td>2 hours</td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td>Project Development</td>
+      <td>4 hours</td>
+    </tr>
+    <tr>
+      <td>Weekend</td>
+      <td>Learning New Technologies</td>
+      <td>6 hours</td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">🎯 Future Goals</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Goal-Contribute_to_Major_AI_Framework-blueviolet?style=for-the-badge" alt="Contribute to Major AI Framework"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Goal-Publish_Research_Paper-blue?style=for-the-badge" alt="Publish Research Paper"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Goal-Build_Production_AI_System-green?style=for-the-badge" alt="Build Production AI System"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Goal-Mentor_AI_Beginners-orange?style=for-the-badge" alt="Mentor AI Beginners"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h2 align="center">🌐 Let's Connect!</h2>
@@ -147,12 +214,6 @@ I believe in the power of AI to transform industries and improve lives through t
   <a href="https://medium.com/@your_medium">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-</div>
-
-<h2 align="center">⏰ Weekly Development Breakdown</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=emredeveloper&theme=radical&hide_border=true" alt="WakaTime Stats"/>
 </div>
 
 <div align="center">
