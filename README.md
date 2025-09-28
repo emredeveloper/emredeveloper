@@ -103,53 +103,6 @@
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac32e-e21e-4145-b8ad-585a436bd38d.png" width="30" alt="Skills"> Expertise Level
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><b>🤖 Machine Learning</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/bar/95.webp" alt="Machine Learning 95%" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🧠 Deep Learning</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/bar/90.webp" alt="Deep Learning 90%" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🔤 NLP</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/bar/85.webp" alt="NLP 85%" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>👁️ Computer Vision</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/bar/88.webp" alt="Computer Vision 88%" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>📊 Data Analysis</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/bar/92.webp" alt="Data Analysis 92%" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🔄 MLOps</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/bar/75.webp" alt="MLOps 75%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
