@@ -179,12 +179,6 @@
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-00dcc4da-ea4e-4801-8ce9-d5833551f0a1.png" width="30" alt="Trophies"> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emredeveloper&theme=tokyonight&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A&column=4&row=2" alt="GitHub Trophies" />
-</div>
-
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
