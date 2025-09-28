@@ -168,14 +168,6 @@
   </table>
 </div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=emredeveloper&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emredeveloper&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
-
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
