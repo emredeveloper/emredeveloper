@@ -78,6 +78,11 @@
         <p>Özel modeller ve canlı demolar.</p>
       </td>
     </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=emredeveloper&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+      </td>
+    </tr>
   </table>
 </div>
 
