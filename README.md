@@ -21,8 +21,6 @@
   </a>
 </p>
 
----
-
 ## About
 
 I am an AI engineer based in Türkiye, focused on turning LLM experiments into usable developer tools and product-like applications. My work sits at the intersection of **retrieval systems**, **local-first AI agents**, **tool calling**, **evaluation**, and **MLOps**.
@@ -52,8 +50,6 @@ I am an AI engineer based in Türkiye, focused on turning LLM experiments into u
 - Working with Ollama, LM Studio, FastAPI, Flask, React, Docker, and vector stores
 - Sharing open-source experiments, notebooks, and technical notes
 
----
-
 ## Selected Stack
 
 <p align="center">
@@ -65,8 +61,6 @@ I am an AI engineer based in Türkiye, focused on turning LLM experiments into u
   <img src="https://img.shields.io/badge/RAG-BM25%20%7C%20Hybrid%20Search%20%7C%20Reranking-teal?style=flat-square" alt="RAG stack" />
   <img src="https://img.shields.io/badge/MLOps-Testing%20%7C%20CI%20%7C%20Packaging-orange?style=flat-square" alt="MLOps stack" />
 </p>
-
----
 
 ## Featured Projects
 
@@ -113,8 +107,6 @@ I am an AI engineer based in Türkiye, focused on turning LLM experiments into u
   </tr>
 </table>
 
----
-
 ## Open-Source Direction
 
 I like building projects that are easy to run locally, easy to inspect, and useful for other developers. My current open-source direction is centered on:
@@ -128,19 +120,30 @@ Local LLMs + Retrieval + Tools + Evaluation + Clean Developer Experience
 - **Practical:** quickstarts, examples, tests, packaging, and release notes
 - **Composable:** small libraries and templates that can be reused in real apps
 
----
+## Activity & Focus
 
-## GitHub Pulse
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emredeveloper&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emredeveloper&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>What I ship</h3>
+      <ul>
+        <li>Reusable AI libraries and developer tools</li>
+        <li>RAG prototypes with evaluation and retrieval diagnostics</li>
+        <li>Local LLM apps using Ollama and LM Studio</li>
+        <li>Examples, quickstarts, tests, and release notes</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>What I am improving</h3>
+      <ul>
+        <li>Agent reliability and self-healing workflows</li>
+        <li>Hybrid retrieval quality and explainability</li>
+        <li>Packaging and documentation for open-source users</li>
+        <li>Production-minded AI application patterns</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <em>“The best way to predict the future is to invent it.” – Alan Kay</em>
