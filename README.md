@@ -1,4 +1,4 @@
-<h1 align="center">C. Emre Karataş</h1>
+<h1 align="center">Emre K.</h1>
 
 <h3 align="center">AI Engineer · LLM & RAG Systems · Local-First AI Agents</h3>
 
